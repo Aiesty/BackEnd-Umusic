@@ -23,6 +23,10 @@ Et voilà, votre backend Umusic est lancé.
 
 ## Version
  - 1.0
+ 
+## Licence
+- Umusic est un projet open source sous la licence MIT :
+  opensource.org/licenses/MIT
 
 ---
 
